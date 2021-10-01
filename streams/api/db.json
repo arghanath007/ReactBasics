@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Reusing components",
+      "description": "Edited the description",
+      "id": 4
+    },
+    {
+      "title": "Creating a new stream",
+      "description": "Performing more CRUD operations",
+      "userId": "109751315213796291728",
+      "id": 5
+    }
+  ]
+}
